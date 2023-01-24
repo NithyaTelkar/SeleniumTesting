@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="Testing2.Holidaylist.AppTest" time="0.014" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="jdk.extensions.version" value="11.0.17.0"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\ee212520\eclipse-workspace\Holidaylist\target\test-classes;C:\Users\ee212520\eclipse-workspace\Holidaylist\target\classes;C:\Users\ee212520\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\ee212520\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse OpenJ9"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="com.ibm.vm.bitmode" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="com.ibm.oti.vm.library.version" value="29"/>
+    <property name="java.vendor.url" value="https://www.ibm.com/semeru-runtimes"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Semeru\jre-11.0.17.8-openj9\bin\default;C:\Program Files\Semeru\jre-11.0.17.8-openj9\bin"/>
+    <property name="sun.java.command" value="C:\Users\ee212520\AppData\Local\Temp\surefire12282272980623035382\surefirebooter13129945848198162949.jar C:\Users\ee212520\AppData\Local\Temp\surefire12282272980623035382 2023-01-24T13-00-29_914-jvmRun1 surefire1349416506829782994tmp surefire_011835785496318511328tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\ee212520\eclipse-workspace\Holidaylist\target\test-classes;C:\Users\ee212520\eclipse-workspace\Holidaylist\target\classes;C:\Users\ee212520\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\ee212520\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\ee212520"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-10-18"/>
+    <property name="java.home" value="C:\Program Files\Semeru\jre-11.0.17.8-openj9"/>
+    <property name="ibm.signalhandling.rs" value="false"/>
+    <property name="jdk.extensions.name" value="Extensions for OpenJDK for Eclipse OpenJ9"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\ee212520\eclipse-workspace\Holidaylist"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.compiler" value="j9jit29"/>
+    <property name="com.ibm.util.extralibs.properties" value=""/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="com.ibm.oti.configuration" value="scar"/>
+    <property name="java.awt.fonts" value=""/>
+    <property name="surefire.real.class.path" value="C:\Users\ee212520\AppData\Local\Temp\surefire12282272980623035382\surefirebooter13129945848198162949.jar"/>
+    <property name="com.ibm.oti.shared.enabled" value="false"/>
+    <property name="com.ibm.oti.vm.bootstrap.library.path" value="C:\Program Files\Semeru\jre-11.0.17.8-openj9\bin\default;C:\Program Files\Semeru\jre-11.0.17.8-openj9\bin"/>
+    <property name="com.ibm.cpu.endian" value="little"/>
+    <property name="java.fullversion" value="11.0.17+8&#10;JRE 11 Windows 11 amd64-64-Bit Compressed References 20221031_487 (JIT enabled, AOT enabled)&#10;OpenJ9   - e04a7f6c1&#10;OMR      - 85a21674f&#10;JCL      - a94c231303 based on jdk-11.0.17+8"/>
+    <property name="java.runtime.version" value="11.0.17+8"/>
+    <property name="user.name" value="ee212520"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="IBM Semeru Runtime Open Edition"/>
+    <property name="ibm.signalhandling.sigint" value="true"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Eclipse OpenJ9 VM"/>
+    <property name="java.vendor.version" value="11.0.17.0"/>
+    <property name="ibm.signalhandling.sigchain" value="true"/>
+    <property name="localRepository" value="C:\Users\ee212520\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/ibmruntimes/Semeru-Runtimes/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\ee212520\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.17"/>
+    <property name="com.ibm.system.agent.path" value="C:\Program Files\Semeru\jre-11.0.17.8-openj9\bin"/>
+    <property name="user.dir" value="C:\Users\ee212520\eclipse-workspace\Holidaylist"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="os.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="C:\Program Files\Semeru\jre-11.0.17.8-openj9\bin\default;C:\Program Files\Semeru\jre-11.0.17.8-openj9\bin;C:\windows\system32;C:\windows;C:\Program Files\Semeru\jre-11.0.17.8-openj9\bin;C:\Program Files (x86)\Eclipse Adoptium\jdk-8.0.352.8-hotspot\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NTP\bin;C:\Program Files\PuTTY\;C:\Program Files\ojdkbuild\java-11-openjdk-jre-11.0.15-1\bin;C:\Program Files\Microsoft VS Code\bin;C:\TCB\apache-maven-3.8.1-bin\apache-maven-3.8.1\bin;C:\Users\ee212520\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.1\bin;;."/>
+    <property name="java.vm.info" value="JRE 11 Windows 11 amd64-64-Bit Compressed References 20221031_487 (JIT enabled, AOT enabled)&#10;OpenJ9   - e04a7f6c1&#10;OMR      - 85a21674f&#10;JCL      - a94c231303 based on jdk-11.0.17+8"/>
+    <property name="java.vendor" value="IBM Corporation"/>
+    <property name="java.vm.version" value="openj9-0.35.0"/>
+    <property name="ibm.system.encoding" value="Cp1252"/>
+    <property name="com.ibm.jcl.checkClassPath" value=""/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="Testing2.Holidaylist.AppTest" time="0.001"/>
+</testsuite>
