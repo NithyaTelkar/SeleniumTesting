@@ -7,6 +7,10 @@ trigger:
 - main
 
 pool:
+- task: GitHubComment@0
+  inputs:
+    gitHubConnection: 'NithyaTelkar (1)'
+    repositoryName: '$(Build.Repository.Name)'
   vmImage: ubuntu-latest
 
 steps:
